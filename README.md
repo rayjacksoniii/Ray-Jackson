@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes sales data using Excel functions like XLOOKUP and VLOOKUP.
 
-##What I Did
+## What I Did
 Cleaned and structured raw sales data for consistency
 Used Excel functions such as XLOOKUP and VLOOKUP to match and retrieve data
 Built organized tables to improve readability and efficiency
