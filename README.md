@@ -1,5 +1,13 @@
-# Ray-Jackson
-## Project Visuals
+# Excel Data Analysis Project
+
+## Overview
+This project analyzes sales data using Excel functions like XLOOKUP and VLOOKUP.
+
+## Skills Used
+- Excel
+- Data Cleaning
+- XLOOKUP / VLOOKUP
+- Data Visualization
 
 ## Project Visuals
-![Project Screenshot](Visuals/Blank%20for%20proj.png)
+![Dashboard](Visuals/blank-project.png)
